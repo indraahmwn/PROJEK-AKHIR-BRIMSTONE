@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jam</string>
+    <string name="chronometer_format">%s:%s:%s:%s</string>
+</resources>
